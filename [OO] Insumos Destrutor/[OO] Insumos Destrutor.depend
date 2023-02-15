@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1651513140 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\main.cpp
+	<iostream>
+
+1651515476 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\src\epi.cpp
+	"EPI.h"
+
+1651513995 c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\include\epi.h
+	"Insumo.h"
+
+1651513244 c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\include\insumo.h
+	<iostream>
+
+1651515476 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\src\insumo.cpp
+	"Insumo.h"
+
+1651515476 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\src\medicamento.cpp
+	"Medicamento.h"
+
+1651513995 c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\include\medicamento.h
+	"Insumo.h"
+
+1651515476 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\src\vacina.cpp
+	"Vacina.h"
+
+1651517790 c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\include\vacina.h
+	"Insumo.h"
+
+1651515476 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\src\local.cpp
+	"Local.h"
+
+1651515306 c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\include\local.h
+	"Insumo.h"
+	<vector>
+
+1656026286 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\src\epi.cpp
+	"EPI.h"
+
+1656026286 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\include\epi.h
+	"Insumo.h"
+
+1651484444 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\include\insumo.h
+	<iostream>
+
+1656026347 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\src\insumo.cpp
+	"Insumo.h"
+
+1656027821 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\src\local.cpp
+	"Local.h"
+
+1651486506 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\include\local.h
+	"Insumo.h"
+	<vector>
+
+1656026059 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\src\medicamento.cpp
+	"Medicamento.h"
+
+1656026059 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\include\medicamento.h
+	"Insumo.h"
+
+1656025744 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\src\vacina.cpp
+	"Vacina.h"
+
+1656025744 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\include\vacina.h
+	"Insumo.h"
+
+1656027711 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] insumos destrutor\main.cpp
+	<iostream>
+	"Insumo.h"
+	"Local.h"
+	"Medicamento.h"
+	"Vacina.h"
+	"EPI.h"
+

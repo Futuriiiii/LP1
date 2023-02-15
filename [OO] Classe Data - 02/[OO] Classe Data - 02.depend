@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1647873196 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] classe data - 02\main.cpp
+	<iostream>
+	"data2.h"
+
+1647874070 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] classe data - 02\include\data2.h
+	<iostream>
+
+1647888471 source:c:\users\aluno\desktop\data2-rafa\[oo] classe data - 02\src\data2.cpp
+	"data2.h"
+	<iostream>
+
+1647888471 c:\users\aluno\desktop\data2-rafa\[oo] classe data - 02\include\data2.h
+	<iostream>
+
+1647887596 source:c:\users\aluno\desktop\data2-rafa\[oo] classe data - 02\main.cpp
+	<iostream>
+	"data2.h"
+
+1647874070 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] classe data - 02\src\data2.cpp
+	"data2.h"
+	<iostream>
+

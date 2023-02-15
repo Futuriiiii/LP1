@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1652233817 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] restaurante\main.cpp
+	"Pedido.h"
+	"MesaDeRestaurante.h"
+	"Restaurante.h"
+
+1652231386 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] restaurante\src\pedido.cpp
+	"Pedido.h"
+
+1652233904 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] restaurante\include\pedido.h
+	<iostream>
+
+1652233776 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] restaurante\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+
+1652233904 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] restaurante\include\mesaderestaurante.h
+	"Pedido.h"
+	<vector>
+
+1652233454 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] restaurante\src\restaurante.cpp
+	"Restaurante.h"
+
+1652233402 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] restaurante\include\restaurante.h
+	"MesaDeRestaurante.h"
+

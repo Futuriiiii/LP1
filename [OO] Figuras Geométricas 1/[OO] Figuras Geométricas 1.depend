@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1649098604 source:c:\users\consu\desktop\rafa\lab lp1\lpi c++ cpp 02\[oo] figuras geométricas 1\main.cpp
+	<iostream>
+	"Quadrado.h"
+	"Retangulo.h"
+	"Triangulo.h"
+	"Circulo.h"
+
+1649098635 source:c:\users\consu\desktop\rafa\lab lp1\lpi c++ cpp 02\[oo] figuras geométricas 1\src\circulo.cpp
+	"Circulo.h"
+
+1649098604 c:\users\consu\desktop\rafa\lab lp1\lpi c++ cpp 02\[oo] figuras geométricas 1\include\circulo.h
+	"FiguraGeometrica.h"
+
+1649095146 source:c:\users\consu\desktop\rafa\lab lp1\lpi c++ cpp 02\[oo] figuras geométricas 1\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+	<iostream>
+
+1649094807 c:\users\consu\desktop\rafa\lab lp1\lpi c++ cpp 02\[oo] figuras geométricas 1\include\figurageometrica.h
+	<iostream>
+
+1649098725 source:c:\users\consu\desktop\rafa\lab lp1\lpi c++ cpp 02\[oo] figuras geométricas 1\src\quadrado.cpp
+	"Quadrado.h"
+
+1649098604 c:\users\consu\desktop\rafa\lab lp1\lpi c++ cpp 02\[oo] figuras geométricas 1\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1649098635 source:c:\users\consu\desktop\rafa\lab lp1\lpi c++ cpp 02\[oo] figuras geométricas 1\src\retangulo.cpp
+	"Retangulo.h"
+
+1649098604 c:\users\consu\desktop\rafa\lab lp1\lpi c++ cpp 02\[oo] figuras geométricas 1\include\retangulo.h
+	"FiguraGeometrica.h"
+
+1649098635 source:c:\users\consu\desktop\rafa\lab lp1\lpi c++ cpp 02\[oo] figuras geométricas 1\src\triangulo.cpp
+	"Triangulo.h"
+
+1649098604 c:\users\consu\desktop\rafa\lab lp1\lpi c++ cpp 02\[oo] figuras geométricas 1\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1650179616 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 1\main.cpp
+	<iostream>
+	"Quadrado.h"
+	"Retangulo.h"
+	"Triangulo.h"
+	"Circulo.h"
+
+1649084204 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 1\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1649080406 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 1\include\figurageometrica.h
+	<iostream>
+
+1650179698 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 1\include\retangulo.h
+	"FiguraGeometrica.h"
+
+1650179698 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 1\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1650179698 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 1\include\circulo.h
+	"FiguraGeometrica.h"
+
+1650179616 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 1\src\circulo.cpp
+	"Circulo.h"
+
+1649080746 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 1\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+	<iostream>
+
+1650179616 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 1\src\quadrado.cpp
+	"Quadrado.h"
+
+1650179616 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 1\src\retangulo.cpp
+	"Retangulo.h"
+
+1650179616 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 1\src\triangulo.cpp
+	"Triangulo.h"
+

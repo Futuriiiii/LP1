@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650145238 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] classe funcionário - 01\main.cpp
+	<iostream>
+	"Funcionario.h"
+
+1650148885 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] classe funcionário - 01\include\funcionario.h
+	<iostream>
+
+1650145279 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] classe funcionário - 01\src\funcionario.cpp
+	"Funcionario.h"
+

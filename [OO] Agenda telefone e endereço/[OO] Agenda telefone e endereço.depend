@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1651961831 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] agenda telefone e endereço\main.cpp
+	<iostream>
+	"Pessoa.h"
+
+1651961614 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] agenda telefone e endereço\src\pessoa.cpp
+	"Pessoa.h"
+
+1651960454 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] agenda telefone e endereço\include\pessoa.h
+	"Endereco.h"
+
+1651959119 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] agenda telefone e endereço\include\endereco.h
+	<iostream>
+
+1651961698 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] agenda telefone e endereço\src\endereco.cpp
+	"Endereco.h"
+

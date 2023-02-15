@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1650178571 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] sistema de controle de gastos\main.cpp
+	<iostream>
+	"ControleDeGastos.h"
+
+1650172322 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] sistema de controle de gastos\src\despesa.cpp
+	"Despesa.h"
+
+1650172322 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] sistema de controle de gastos\include\despesa.h
+	<iostream>
+
+1650177554 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] sistema de controle de gastos\src\controledegastos.cpp
+	"ControleDeGastos.h"
+
+1650176725 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] sistema de controle de gastos\include\controledegastos.h
+	<iostream>
+	"Despesa.h"
+

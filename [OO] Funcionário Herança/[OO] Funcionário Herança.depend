@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1652098028 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] funcionário herança\main.cpp
+	<iostream>
+
+1652097954 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] funcionário herança\src\funcionario.cpp
+	"Funcionario.h"
+
+1652098072 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] funcionário herança\include\funcionario.h
+	<iostream>
+
+1652098240 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] funcionário herança\src\consultor.cpp
+	"Consultor.h"
+
+1652098226 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] funcionário herança\include\consultor.h
+	"Funcionario.h"
+
+1652083840 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] funcionário herança\src\consultor.cpp
+	"Consultor.h"
+
+1652116419 c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] funcionário herança\include\consultor.h
+	"Funcionario.h"
+
+1652083672 c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] funcionário herança\include\funcionario.h
+	<iostream>
+
+1652083554 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] funcionário herança\src\funcionario.cpp
+	"Funcionario.h"
+
+1652116329 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] funcionário herança\main.cpp
+	<iostream>
+	"Consultor.h"
+

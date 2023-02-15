@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649025226 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] classe pessoa - 02\src\pessoa2.cpp
+	"Pessoa2.h"
+
+1649022528 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] classe pessoa - 02\include\pessoa2.h
+	<iostream>
+
+1649644738 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] classe pessoa - 02\main.cpp
+	<iostream>
+	<string>
+	"Pessoa2.h"
+

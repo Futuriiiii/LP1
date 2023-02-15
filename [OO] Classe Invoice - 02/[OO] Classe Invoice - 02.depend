@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649019837 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] classe invoice - 02\main.cpp
+	<iostream>
+	"Invoice2.h"
+
+1649019455 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] classe invoice - 02\include\invoice2.h
+	<iostream>
+
+1649019906 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] classe invoice - 02\src\invoice2.cpp
+	"Invoice2.h"
+	<iostream>
+

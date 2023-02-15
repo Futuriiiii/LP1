@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1653332116 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] template estatístico\main.cpp
+	<iostream>
+	"Estatisticas.h"
+	"Pedido.h"
+	"Livro.h"
+
+1653330969 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] template estatístico\src\livro.cpp
+	"Livro.h"
+
+1653328722 c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] template estatístico\include\livro.h
+	<iostream>
+
+1653331951 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] template estatístico\src\pedido.cpp
+	"Pedido.h"
+
+1653331775 c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] template estatístico\include\pedido.h
+	<iostream>
+
+1653332116 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] template estatístico\src\estatisticas.cpp
+
+1653332116 c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] template estatístico\include\estatisticas.h
+	<vector>
+
+1653317716 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] template estatístico\main.cpp
+	<iostream>
+	"Estatisticas.h"
+	"Pedido.h"
+	"Livro.h"
+
+1653317716 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] template estatístico\include\estatisticas.h
+	<vector>
+
+1653317374 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] template estatístico\include\pedido.h
+	<iostream>
+
+1653314322 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] template estatístico\include\livro.h
+	<iostream>
+
+1653317716 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] template estatístico\src\estatisticas.cpp
+
+1653316568 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] template estatístico\src\livro.cpp
+	"Livro.h"
+
+1653317550 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] template estatístico\src\pedido.cpp
+	"Pedido.h"
+

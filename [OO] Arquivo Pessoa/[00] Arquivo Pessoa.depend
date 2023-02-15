@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1656060128 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[00] arquivo pessoa\main.cpp
+	<fstream>
+	<vector>
+	"Pessoa.h"
+
+1656059189 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[00] arquivo pessoa\include\pessoa.h
+	<iostream>
+
+1656059198 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[00] arquivo pessoa\src\pessoa.cpp
+	"Pessoa.h"
+

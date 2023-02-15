@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1652055818 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 2 - polimorfismo\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1652058237 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 2 - polimorfismo\include\figurageometrica.h
+	<iostream>
+
+1652058116 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 2 - polimorfismo\main.cpp
+	<iostream>
+	"Triangulo.h"
+	"Retangulo.h"
+	"Quadrado.h"
+	"Circulo.h"
+
+1652057030 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 2 - polimorfismo\src\circulo.cpp
+	"Circulo.h"
+
+1652058237 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 2 - polimorfismo\include\circulo.h
+	"FiguraGeometrica.h"
+
+1652057045 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 2 - polimorfismo\src\quadrado.cpp
+	"Quadrado.h"
+
+1652056993 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 2 - polimorfismo\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1652058237 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 2 - polimorfismo\src\retangulo.cpp
+	"Retangulo.h"
+
+1652056911 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 2 - polimorfismo\include\retangulo.h
+	"FiguraGeometrica.h"
+
+1652056753 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 2 - polimorfismo\src\triangulo.cpp
+	"Triangulo.h"
+
+1652056599 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] figuras geométricas 2 - polimorfismo\include\triangulo.h
+	"FiguraGeometrica.h"
+

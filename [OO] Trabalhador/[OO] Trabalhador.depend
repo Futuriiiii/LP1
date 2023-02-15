@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1652143018 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] trabalhador\main.cpp
+	<iostream>
+	"TrabalhadorAssalariado.h"
+	"TrabalhadorPorHora.h"
+
+1652143305 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] trabalhador\src\trabalhador.cpp
+	"Trabalhador.h"
+
+1652143305 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] trabalhador\include\trabalhador.h
+	<iostream>
+
+1652142279 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] trabalhador\src\trabalhadorporhora.cpp
+	"TrabalhadorPorHora.h"
+
+1652142489 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] trabalhador\include\trabalhadorporhora.h
+	"Trabalhador.h"
+
+1652141659 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] trabalhador\src\trabalhadorassalariado.cpp
+	"TrabalhadorAssalariado.h"
+
+1652140747 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] trabalhador\include\trabalhadorassalariado.h
+	"Trabalhador.h"
+

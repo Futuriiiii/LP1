@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647456950 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu\lista lpi c++ cpp 01\teste\main.cpp
+	<iostream>
+	"Data.h"
+
+1647456950 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu\lista lpi c++ cpp 01\teste\include\data.h
+
+1647456950 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu\lista lpi c++ cpp 01\teste\src\data.cpp
+	"Data.h"
+	<iostream>
+

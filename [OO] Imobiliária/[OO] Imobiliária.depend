@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1650401227 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] imobiliária\main.cpp
+	<iostream>
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+
+1650401227 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] imobiliária\include\casa.h
+	"Imovel.h"
+
+1650401227 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] imobiliária\include\imovel.h
+	<iostream>
+
+1650401227 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] imobiliária\include\apartamento.h
+	"Imovel.h"
+
+1650401227 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] imobiliária\include\terreno.h
+	"Imovel.h"
+
+1650401227 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] imobiliária\src\apartamento.cpp
+	"Apartamento.h"
+
+1650401227 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] imobiliária\src\casa.cpp
+	"Casa.h"
+
+1650401227 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] imobiliária\src\imovel.cpp
+	"Imovel.h"
+
+1650401227 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] imobiliária\src\terreno.cpp
+	"Terreno.h"
+

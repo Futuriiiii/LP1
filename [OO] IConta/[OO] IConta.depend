@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1650911797 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] iconta\main.cpp
+	<iostream>
+	"Conta.h"
+	"ContaEspecial.h"
+
+1650908849 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] iconta\src\iconta.cpp
+	"IConta.h"
+
+1650910519 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] iconta\include\iconta.h
+	<iostream>
+
+1650911223 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] iconta\include\conta.h
+	"IConta.h"
+
+1650911223 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] iconta\src\conta.cpp
+	"Conta.h"
+
+1650911854 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] iconta\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1650911223 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] iconta\include\contaespecial.h
+	"Conta.h"
+

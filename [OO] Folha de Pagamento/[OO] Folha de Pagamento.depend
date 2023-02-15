@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1656017730 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] folha de pagamento\src\assalariado.cpp
+	"Assalariado.h"
+
+1656017730 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] folha de pagamento\include\assalariado.h
+	"Funcionario.h"
+
+1656017730 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] folha de pagamento\include\funcionario.h
+	<iostream>
+	<vector>
+	<string>
+	<exception>
+	<stdexcept>
+
+1656017730 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] folha de pagamento\src\comissionado.cpp
+	"Comissionado.h"
+
+1656017730 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] folha de pagamento\include\comissionado.h
+	"Funcionario.h"
+
+1656017730 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] folha de pagamento\src\funcionario.cpp
+	"Funcionario.h"
+
+1656017730 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] folha de pagamento\src\funcionarionaoexisteexception.cpp
+	"FuncionarioNaoExisteException.h"
+
+1656017730 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] folha de pagamento\include\funcionarionaoexisteexception.h
+	<string>
+
+1656017730 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] folha de pagamento\src\horista.cpp
+	"Horista.h"
+
+1656017730 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] folha de pagamento\include\horista.h
+	"Funcionario.h"
+
+1656017730 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] folha de pagamento\src\orcamentoestouradoexception.cpp
+	"OrcamentoEstouradoException.h"
+
+1656017730 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] folha de pagamento\include\orcamentoestouradoexception.h
+	<string>
+
+1656021777 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] folha de pagamento\src\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+	"FuncionarioNaoExisteException.h"
+	"OrcamentoEstouradoException.h"
+
+1656017730 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] folha de pagamento\include\sistemagerenciafolha.h
+	"Funcionario.h"
+
+1656021777 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] folha de pagamento\main.cpp
+	"Funcionario.h"
+	"SistemaGerenciaFolha.h"
+	"Assalariado.h"
+	"Horista.h"
+	"Comissionado.h"
+	<iomanip>
+

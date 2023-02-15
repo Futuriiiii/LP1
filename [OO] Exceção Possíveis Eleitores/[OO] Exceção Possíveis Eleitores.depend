@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1656056597 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] exceção possíveis eleitores\main.cpp
+	<iostream>
+	"Eleitor.h"
+	"GerenciadorEleitores.h"
+
+1656056035 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] exceção possíveis eleitores\src\eleitor.cpp
+	"Eleitor.h"
+
+1656056035 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] exceção possíveis eleitores\include\eleitor.h
+	<iostream>
+
+1656057220 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] exceção possíveis eleitores\src\gerenciadoreleitores.cpp
+	"GerenciadorEleitores.h"
+
+1656056526 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] exceção possíveis eleitores\include\gerenciadoreleitores.h
+	<vector>
+	<stdexcept>
+	"Eleitor.h"
+

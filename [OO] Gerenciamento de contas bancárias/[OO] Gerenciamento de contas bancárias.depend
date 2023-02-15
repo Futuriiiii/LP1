@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1652122184 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\main.cpp
+	<iostream>
+
+1652122586 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\src\contacorrente.cpp
+	"ContaCorrente.h"
+
+1652122442 c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\include\contacorrente.h
+
+1652122184 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1652122184 c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\include\contaespecial.h
+
+1652122744 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\src\poupanca.cpp
+	"Poupanca.h"
+
+1652122725 c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\include\poupanca.h
+
+1652122744 source:c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\src\conta.cpp
+	"Conta.h"
+
+1652122586 c:\users\minec\onedrive\Área de trabalho\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\include\conta.h
+	<iostream>
+
+1656041312 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\main.cpp
+	<iostream>
+	"Conta.h"
+	"Poupanca.h"
+	"ContaCorrente.h"
+	"ContaEspecial.h"
+
+1656040658 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\src\contacorrente.cpp
+	"ContaCorrente.h"
+
+1656040571 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\include\contacorrente.h
+	"Conta.h"
+
+1656041376 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\include\conta.h
+	<iostream>
+
+1656040825 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1656040817 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\include\contaespecial.h
+	"ContaCorrente.h"
+
+1656041360 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\src\poupanca.cpp
+	"Poupanca.h"
+
+1656041360 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\include\poupanca.h
+	"Conta.h"
+
+1656041387 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] gerenciamento de contas bancárias\src\conta.cpp
+	"Conta.h"
+

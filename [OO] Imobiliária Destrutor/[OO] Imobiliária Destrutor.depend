@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1656053509 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] imobiliária destrutor\main.cpp
+	"Imovel.h"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+	"Imobiliaria.h"
+
+1656053614 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] imobiliária destrutor\src\apartamento.cpp
+	"Apartamento.h"
+
+1656053614 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] imobiliária destrutor\include\apartamento.h
+	"Imovel.h"
+
+1656052087 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] imobiliária destrutor\include\imovel.h
+	<iostream>
+
+1656053614 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] imobiliária destrutor\src\terreno.cpp
+	"Terreno.h"
+
+1656053614 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] imobiliária destrutor\include\terreno.h
+	"Imovel.h"
+
+1656053614 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] imobiliária destrutor\src\casa.cpp
+	"Casa.h"
+
+1656053614 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] imobiliária destrutor\include\casa.h
+	"Imovel.h"
+
+1656053029 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] imobiliária destrutor\src\imovel.cpp
+	"Imovel.h"
+
+1656051924 source:c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] imobiliária destrutor\src\imobiliaria.cpp
+	"Imobiliaria.h"
+
+1656051219 c:\users\minec\onedrive\Área de trabalho\ufpb\.periodos\2º periodo\lab lp 1 - derzu\listas\lista lpi c++ cpp 03\[oo] imobiliária destrutor\include\imobiliaria.h
+	<vector>
+	"Imovel.h"
+

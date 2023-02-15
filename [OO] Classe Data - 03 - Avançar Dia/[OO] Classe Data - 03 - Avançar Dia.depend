@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1648330573 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu\lista lpi c++ cpp 01\[oo] classe data - 03 - avançar dia\src\data3.cpp
+	"Data3.h"
+
+1648329504 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu\lista lpi c++ cpp 01\[oo] classe data - 03 - avançar dia\include\data3.h
+
+1648330121 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu\lista lpi c++ cpp 01\[oo] classe data - 03 - avançar dia\main.cpp
+	<iostream>
+	"Data3.h"
+
+1648493097 source:c:\users\consu\desktop\rafa\lab lp1\lista lpi c++ cpp 01\[oo] classe data - 03 - avançar dia\main.cpp
+	<iostream>
+	"Data3.h"
+
+1648490046 c:\users\consu\desktop\rafa\lab lp1\lista lpi c++ cpp 01\[oo] classe data - 03 - avançar dia\include\data3.h
+
+1648493333 source:c:\users\consu\desktop\rafa\lab lp1\lista lpi c++ cpp 01\[oo] classe data - 03 - avançar dia\src\data3.cpp
+	"Data3.h"
+	<iostream>
+
+1648478696 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] classe data - 03 - avançar dia\main.cpp
+	<iostream>
+	"Data3.h"
+
+1648475646 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] classe data - 03 - avançar dia\include\data3.h
+
+1648478932 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 01\[oo] classe data - 03 - avançar dia\src\data3.cpp
+	"Data3.h"
+	<iostream>
+

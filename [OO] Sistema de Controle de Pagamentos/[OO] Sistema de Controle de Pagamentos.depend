@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1650677452 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] sistema de controle de pagamentos\main.cpp
+	<iostream>
+	"ControleDePagamentos.h"
+
+1650673000 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] sistema de controle de pagamentos\src\pagamento.cpp
+	"Pagamento.h"
+
+1650673000 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] sistema de controle de pagamentos\include\pagamento.h
+	<iostream>
+
+1650677837 source:c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] sistema de controle de pagamentos\src\controledepagamentos.cpp
+	"ControleDePagamentos.h"
+	<string>
+
+1650677369 c:\users\futur\desktop\ufpb\2º periodo\lab lp 1 - derzu (ci 101)\listas\lista lpi c++ cpp 02\[oo] sistema de controle de pagamentos\include\controledepagamentos.h
+	"Pagamento.h"
+
